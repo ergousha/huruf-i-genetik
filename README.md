@@ -5,10 +5,10 @@ Huruf-i Genetik, Muhyiddin İbn Arabi'nin *Fütuhat-ı Mekkiye* eserindeki (5. B
 Projenin temel amacı; Kur'an'daki 29 harfi sıradan bir alfabe olarak değil, evrenin yaratılışındaki "Alemler" (Ceberut, Melekut, Orta, Aşağı) ve "Mertebeler" üzerinden şifrelenmiş kozmolojik yapı taşları olarak matematiksel ve görsel bir boyutta incelemektir.
 
 <p align="center">
-  <img src="../assets/Screenshot1.png" alt="Huruf-i Genetik Arayüz - 1" width="800">
+  <img src="assets/Screenshot1.png" alt="Huruf-i Genetik Arayüz - 1" width="800">
 </p>
 <p align="center">
-  <img src="../assets/Screenshot2.png" alt="Huruf-i Genetik Arayüz - 2" width="800">
+  <img src="assets/Screenshot2.png" alt="Huruf-i Genetik Arayüz - 2" width="800">
 </p>
 
 ## Özellikler (Use Cases)
