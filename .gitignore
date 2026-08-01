@@ -1,0 +1,26 @@
+# Binaries
+server
+huruf-genetik/server
+
+# Build and Temp files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Caches
+huruf-genetik/quran_cache.json
+quran_cache.json
+
+# Docker and Databases
+neo4j_data/
+neo4j_logs/
+
+# IDE and OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
